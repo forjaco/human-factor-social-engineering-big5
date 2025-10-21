@@ -32,18 +32,8 @@ Since this project is a single-page visualization built with pure HTML, CSS, and
 ### Option 1: View Online (GitHub Pages)
 
 If this repository is hosted on GitHub, you can view the live site directly via GitHub Pages:
-`[Insert your GitHub Pages URL here, e.g., https://[username].github.io/big5-social-engineering-analysis/]`
+https://forjaco.github.io/human-factor-social-engineering-big5/
 
-### Option 2: Run Locally
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repository-Name].git
-    cd [Your-Repository-Name]
-    ```
-2.  **Open the file:** Simply open the **`index.html`** file in your preferred web browser (Chrome, Firefox, Safari, etc.).
-
----
 
  Technologies Used
 
