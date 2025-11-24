@@ -25,13 +25,7 @@ The visualization is built entirely on a single HTML page using **Tailwind CSS**
 
 ---
 
- How to View the Project
 
-Since this project is a single-page visualization built with pure HTML, CSS, and JavaScript, it is extremely easy to deploy and view.
-
-### Option 1: View Online (GitHub Pages)
-
-If this repository is hosted on GitHub, you can view the live site directly via GitHub Pages:
 https://forjaco.github.io/human-factor-social-engineering-big5/
 
 
